@@ -15,7 +15,6 @@ Source:         http://www.cpan.org/modules/by-module/Config/%{module}-%{version
 Buildrequires:	perl-devel
 %endif
 BuildArch:	    noarch
-BuildRoot:	    %{_tmppath}/%{name}-%{version}
 
 %description
 This module opens a config file and parses it's contents for you. The
