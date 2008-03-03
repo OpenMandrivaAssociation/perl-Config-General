@@ -1,6 +1,6 @@
 %define	module	Config-General
 %define	name	perl-%{module}
-%define version 2.37
+%define version 2.38
 %define	release	%mkrel 1
 
 Name:		%{name}
