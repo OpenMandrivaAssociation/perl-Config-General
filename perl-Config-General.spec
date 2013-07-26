@@ -1,14 +1,14 @@
 %define	upstream_name	 Config-General
-%define upstream_version 2.51
+%define upstream_version 2.52
 Name:		perl-%{upstream_name}
-Version:	%perl_convert_version 2.51
+Version:	%perl_convert_version 2.52
 Release:	1
 
 Summary:	Generic Config perl module
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:        http://search.cpan.org/dist/%{upstream_name}
-Source0:	http://www.cpan.org/modules/by-module/Config/Config-General-2.51.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Config/Config-General-2.52.tar.gz
 
 BuildRequires:	perl-devel
 BuildArch:	noarch
@@ -140,5 +140,6 @@ make test
 
 * Tue Mar 30 2004 Olivier Thauvin <thauvin@aerov.jussieu.fr> 2.26-1mdk
 - 2.26
+
 
 
