@@ -2,5 +2,6 @@ removed_sources:
   Config-General-2.50.tar.gz: 6e246d22e9840a4da2572f24a2a0c9976f3ceb25
   Config-General-2.51.tar.gz: db506abad3ff7244e1e7606ae674159c391b67ff
   Config-General-2.52.tar.gz: 083f0ba7795321a96e5a322611a56b486fb3090a
-sources:
   Config-General-2.54.tar.gz: 2da9f90f0d06e028a87b1acbd5ebba19298a4318
+sources:
+  Config-General-2.56.tar.gz: 5f2f6b9e6e7a5f8e5bcaec6146c65f92693dc613

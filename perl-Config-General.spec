@@ -1,10 +1,11 @@
 %define	upstream_name	 Config-General
-%define upstream_version 2.54
+%define upstream_version 2.56
 Name:		perl-%{upstream_name}
 Version:	%perl_convert_version %{upstream_version}
 Release:	1
 
 Summary:	Generic Config perl module
+
 
 License:	GPL+ or Artistic
 Group:		Development/Perl
@@ -38,5 +39,6 @@ make test
 %doc Changelog README
 %{perl_vendorlib}/Config
 %{_mandir}/man3/*
+
 
 
